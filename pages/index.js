@@ -1,8 +1,11 @@
 import React from 'react'
+import Header from '../components/Header'
 
 const Index = () => {
     return (
-        <h1><img src='/logo.png' alt='Ola FSL!'/></h1>
+      <div>
+        <h1>Home</h1>
+      </div>
     )
 }
 

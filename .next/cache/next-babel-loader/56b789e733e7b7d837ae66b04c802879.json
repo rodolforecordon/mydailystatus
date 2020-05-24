@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nconst Index = () => {\n  return __jsx(\"h1\", null, __jsx(\"img\", {\n    src: \"/logo.png\",\n    alt: \"Ola FSL!\"\n  }));\n};\n\nexport default Index;","map":null,"metadata":{},"sourceType":"module"}
