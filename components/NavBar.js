@@ -14,7 +14,7 @@ const NavBar = () => {
         <div className='bg-gray-400 text-center'>
           <NavLink href='/sobre'>Sobre</NavLink>
           <NavLink href='/cadastro'>Cadastro</NavLink>
-          <NavLink href='/e ntrar'>Entrar</NavLink>
+          <NavLink href='/entrar'>Entrar</NavLink>
         </div>
     )
 }

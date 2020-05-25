@@ -1,0 +1,1 @@
+{"ast":null,"code":"// request <> response\nconst login = async (request, response) => {\n  response.send({\n    \"name\": \"Rodolfo Recordon\"\n  });\n};\n\nexport default login;","map":null,"metadata":{},"sourceType":"module"}
