@@ -11,7 +11,7 @@
   "author": "Rodolfo Recordon",
   "license": "MIT",
   "dependencies": {
-    "@auth0/nextjs-auth0": "^0.13.0",
+    "@auth0/nextjs-auth0": "^1.4.2",
     "dotenv": "^8.2.0",
     "next": "^9.4.1",
     "postcss-import": "^12.0.1",
